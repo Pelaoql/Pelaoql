@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hola, que tal? 👋
+
+🤔 Quien soy?: Soy benjamin reyes, un pequeño programador independiente
+
+🔭 Sobre mi: actualmente estoy estudiando programación en la Universidad Autonoma de Chile. Aprendi a programar de forma independiente y autonoma 
 
 <!--
 **Pelaoql/Pelaoql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
